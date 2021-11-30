@@ -69,4 +69,5 @@ def Main():
 				#The dealer ends their turn.
 			#The dealer checks if anyone has a winning hand.
 			#The dealer checks who has won.
+if __name__ == "__main__":
 	Main()
